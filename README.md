@@ -11,5 +11,5 @@
 - Designed to run in Gazebo simulation
 - Portable, self-contained ROS 2 workspace
 
-📂 Detailed build and run instructions are provided inside  
+Detailed build and run instructions are provided inside  
 **`sim_ws_Fall2025/README.md`**
