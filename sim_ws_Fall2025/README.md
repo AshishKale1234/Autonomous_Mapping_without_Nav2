@@ -117,8 +117,6 @@ sim_ws_Fall2025/
          └── src/
              └── lab4/
                  ├── task1.py   # Autonomous mapping logic
-                 ├── task2.py   # Navigation with static obstacles
-                 └── task3.py   # Search and localization
 ```
 
 ---
