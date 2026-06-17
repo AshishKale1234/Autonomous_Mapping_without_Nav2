@@ -1,5 +1,7 @@
 # Autonomous Mapping without Nav2
 
+video demo: https://www.dropbox.com/scl/fi/uv6fm1pbhhcj7ddacybbw/task1_final.mp4?rlkey=rekeophe847r9kt8fvyjgzqeh&st=zr5se75y&dl=0
+
 - Fully autonomous exploration and mapping of a completely unknown indoor environment
 - Implemented using TurtleBot3 and ROS 2 (Humble / Jazzy)
 - No keyboard teleoperation or predefined waypoints
